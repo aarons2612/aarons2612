@@ -13,9 +13,6 @@ I'm currently a College Student<br>I like to collaborate for web developing and 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aarons2612&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aarons2612&icon=0&color=0)](https://visitcount.itsvg.in)
