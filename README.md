@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently a College Student<br>I like to collaborate for web developing and unity developing.<br>I am good at creating UI/UX for the websites and also for mobile applications.<br>I'm much more interested in creating react projects.<br>
 
 
